@@ -18,12 +18,12 @@
 
 
 # need convert to below format 
-#input: a = [1,3,2,5]
-#input: b = [2,1,3,null,4,null,7] 
-#output: c = [3,4,5,5,4,7]
+# input: a = [1,3,2,5]
+# input: b = [2,1,3,null,4,null,7] 
+# output: c = [3,4,5,5,4,7]
 
 
-#Definition for a binary tree node.
+# Definition for a binary tree node.
 class TreeNode(object):
     def __init__(self, val):
         self.val = val
